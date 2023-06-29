@@ -1,4 +1,4 @@
-**This mod was originally made by [McHorse]. all credit goes to him.**
+**This mod was originally made by [McHorse](https://github.com/mchorse/blockbuster.) all credit goes to him.**
 
 ![Blockbuster](https://i.imgur.com/fkRVMIw.png)
 
